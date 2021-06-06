@@ -1,0 +1,467 @@
+[
+  {
+    "currency": "AED",
+    "name": "Emirati Dirham",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "AUD",
+    "name": "Australian Dollar",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "CAD",
+    "name": "Canadian Dollar",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "CNY",
+    "name": "Chinese Yuan Renminbi",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "EUR",
+    "name": "Euro",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "GBP",
+    "name": "British Pound",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "JPY",
+    "name": "Japanese Yen",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "KZT",
+    "name": "Kazakhstani Tenge",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "KRW",
+    "name": "South Korean Won",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "RUB",
+    "name": "Russian Ruble",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "SAR",
+    "name": "Saudi Arabian Riyal",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "USD",
+    "name": "US Dollar",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "XBT",
+    "name": "Bitcoin",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "XAU",
+    "name": "Gold Ounce",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  },
+  {
+    "currency": "XAG",
+    "name": "Silver Ounce",
+    "data": {
+      "date": [
+        { "start": "01-01-1998", "finish": "01-01-1999", "status": false },
+        { "start": "01-01-1999", "finish": "01-01-2000", "status": false },
+        { "start": "01-01-2000", "finish": "01-01-2001", "status": false },
+        { "start": "01-01-2001", "finish": "01-01-2002", "status": false },
+        { "start": "01-01-2002", "finish": "01-01-2003", "status": false },
+        { "start": "01-01-2003", "finish": "01-01-2004", "status": false },
+        { "start": "01-01-2004", "finish": "01-01-2005", "status": false },
+        { "start": "01-01-2005", "finish": "01-01-2006", "status": false },
+        { "start": "01-01-2006", "finish": "01-01-2007", "status": false },
+        { "start": "01-01-2007", "finish": "01-01-2008", "status": false },
+        { "start": "01-01-2008", "finish": "01-01-2009", "status": false },
+        { "start": "01-01-2009", "finish": "01-01-2010", "status": false },
+        { "start": "01-01-2010", "finish": "01-01-2011", "status": false },
+        { "start": "01-01-2011", "finish": "01-01-2012", "status": false },
+        { "start": "01-01-2012", "finish": "01-01-2013", "status": false },
+        { "start": "01-01-2013", "finish": "01-01-2014", "status": false },
+        { "start": "01-01-2014", "finish": "01-01-2015", "status": false },
+        { "start": "01-01-2015", "finish": "01-01-2016", "status": false },
+        { "start": "01-01-2016", "finish": "01-01-2017", "status": false },
+        { "start": "01-01-2017", "finish": "01-01-2018", "status": false },
+        { "start": "01-01-2018", "finish": "01-01-2019", "status": false },
+        { "start": "01-01-2019", "finish": "01-01-2020", "status": false },
+        { "start": "01-01-2020", "finish": "01-01-2021", "status": false }
+      ]
+    }
+  }
+]
